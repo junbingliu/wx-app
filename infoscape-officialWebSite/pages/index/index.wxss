@@ -1,0 +1,107 @@
+/**index.wxss**/
+page {  
+  display: block;  
+  min-height: 100%;  
+  background-color: #fff;  
+} 
+image{
+  width: 100% !important;
+  height: 100% !important;
+}
+.register{
+  width: 382rpx;
+  height: 144rpx;
+  margin-bottom: 146rpx;
+  padding-top:70rpx; 
+}
+
+.register-import{
+  width: 540rpx;
+ 
+}
+.register-import .import{
+  width: 100%;
+  height: 80rpx;
+  line-height: 80rpx;
+  border-bottom: 1rpx solid #d3d3d3;
+  margin-top: 10rpx;
+  position: relative;
+  
+}
+
+.register-import .import .ico{
+  width:28rpx ;
+  height: 37rpx;
+  float: left;
+  margin-top: 5rpx;
+}
+
+.register-import .import .ico-del{
+  width:22rpx;
+  height: 22rpx;
+  position: absolute;
+  top: 5rpx;
+  right: 5rpx;
+}
+
+.register-import .import input{
+  height: 100%;
+  width: 90%;
+  margin-left: 10rpx;
+  float: left;
+  font-size: 35rpx;
+}
+.register-bnt{
+  margin-top: 46rpx;
+  width: 540rpx;
+  height: 90rpx;
+  border-radius: 10rpx;
+  background: #7fc1ff;
+  color: #fff;
+  text-align: center;
+  line-height: 90rpx;
+  border: 1px solid #5aa3e7;
+}
+.register-bnt.active{
+  background: #0864d1;
+}
+
+.enroll-hint{
+  margin-top: 20rpx;
+  color: #999;
+  font-size:30rpx;
+  width: 540rpx;
+}
+.enroll-hint .tab-1{
+  float: left;
+}
+.enroll-hint .tab-2{
+  float: right;
+}
+.rest-manner {
+  width: 540rpx;
+  border-top:1px solid #cdcccc;
+  position: relative; 
+  margin-top: 130rpx;
+}
+.rest-manner .tit{
+ padding: 0 20rpx;
+ background: #fff;
+ position: absolute;
+ top: -25rpx;
+ left: 50%;
+ margin-left: -170rpx;
+ font-size: 30rpx;
+ color: #999;
+}
+.qq-enroll{
+  width: 540rpx;
+  margin-top: 50rpx;
+
+}
+.qq-enroll .pic{
+  width: 90rpx;
+  height: 90rpx;
+  float: left;
+  margin-right:20rpx; 
+}

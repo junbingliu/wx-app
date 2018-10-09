@@ -1,0 +1,39 @@
+<!--index.wxml-->
+<view class="container">
+  <view class="register">
+    <image src="../../image/logo.png"></image>
+  </view>
+
+  <view class='register-import'>
+    <view class='import'>
+      <view class='ico '><image src='../../image/ico-phone.png'></image></view>
+      <input type='text' placeholder='手机号'></input>
+      <view class='ico-del' style='display: none;'><image src='../../image/ico-x.png'></image></view>
+    </view>
+    <view class='import'>
+      <view class='ico '><image src='../../image/ico-code.png'></image></view>
+      <input type='password' placeholder='密码'></input>
+      <view class='ico-del'><image src='../../image/ico-x.png'></image></view>
+    </view>
+  </view>
+
+  <view class='register-bnt active'>
+      登录
+  </view>
+
+  <view class='enroll-hint'>
+    <text class='tab-1'>免费注册</text>
+    <text class='tab-2'>忘记密码?</text>
+  </view>
+
+  <view class='rest-manner'>
+    <text class='tit'>合作网站账号登录</text>
+  </view>
+
+  <view class='qq-enroll'>
+    <view class='pic'>
+      <image src='../../image/ico-qq.jpg'></image>
+    </view>
+     
+  </view>
+</view>

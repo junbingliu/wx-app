@@ -1,0 +1,74 @@
+<!--register.wxml-->
+<view class="container">
+
+
+   <!-- 内容区域   -->
+   <view class='rowTop'>
+    <view class='intro-cont'>
+      <view class='tit'>
+        <text >公司荣耀</text><text class='en'>COMPANY GLORY</text>
+      </view>
+      <view class='txt-cont'>
+        <view class='honor-cont clearfix'>
+          <view class='honor'>
+              <view class='pic' style='height:206rpx'> <image src='../../image/248x176.jpg'></image></view>
+              <view class='name'>
+                2007年度优秀软件企业
+              </view>
+          </view>
+          <view class='honor'>
+              <view class='pic' style='height:205rpx'> <image src='../../image/248x175.jpg'></image></view>
+              <view class='name'>
+                广州软件行业协会会员单位
+              </view>
+          </view>
+        </view>
+        <view class='honor-cont clearfix'>
+         <view class='honor'>
+              <view class='pic' style='height:205rpx'> <image src='../../image/248x175.jpg'></image></view>
+              <view class='name'>
+                广州市信景技术有限公司ISO9001:2000质量体系认证单位
+              </view>
+          </view>
+          <view class='honor'>
+              <view class='pic' style='height:205rpx'> <image src='../../image/248x175.jpg'></image></view>
+              <view class='name'>
+                广州市信景技术有限公司软件企业认定证书
+              </view>
+          </view>
+        </view>
+
+        <view class='honor-cont clearfix'>
+          <view class='honor'>
+              <view class='pic' style='height:205rpx'> <image src='../../image/248x175.jpg'></image></view>
+              <view class='name'>
+                信使网客通电子商城软件产品登记证书
+              </view>
+          </view>
+          <view class='honor'>
+              <view class='pic' style='height:205rpx'> <image src='../../image/248x175.jpg'></image></view>
+              <view class='name'>
+                信使繁简通计算机软件著作权登记证书
+              </view>
+          </view>
+        </view>
+
+        <view class='honor-cont clearfix'>
+         <view class='honor'>
+              <view class='pic' style='height:205rpx'> <image src='../../image/248x175.jpg'></image></view>
+              <view class='name'>
+                广州市信景技术有限公司软件企业认定证书
+              </view>
+          </view>
+        </view>
+
+
+      </view>
+    </view>
+   </view>
+    
+    <!-- end 内容区域   -->
+</view>
+ 
+         
+          

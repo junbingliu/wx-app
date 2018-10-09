@@ -1,0 +1,46 @@
+<!--register.wxml-->
+<view class="container">
+  <view class="register">
+    <image src="../../image/logo.png"></image>
+  </view>
+
+  <view class='register-import'>
+    <view class='import'>
+      <view class='ico '><image src='../../image/ico-phone.png'></image></view>
+      <input type='text' placeholder='手机号'></input>
+      <view class='ico-del'><image src='../../image/ico-x.png'></image></view>
+    </view>
+    <view class='import'>
+      <view class='ico '><image src='../../image/ico-code.png'></image></view>
+      <input type='password' placeholder='密码'></input>
+    </view>
+    <view class='import'>
+      <view class='ico '><image src='../../image/ico-code.png'></image></view>
+      <input type='password' placeholder='确认密码'></input>
+    </view>
+    <view class='import'>
+      <view class='ico '><image src='../../image/ico-key.png'></image></view>
+      <input type='text' placeholder='推荐码'></input>
+    </view>
+  </view>
+
+  <view class='register-bnt'>
+      注册
+  </view>
+
+  <view class='enroll-hint'>
+    <text class='tab-1'>免费注册</text>
+    <text class='tab-2'>忘记密码?</text>
+  </view>
+
+  <view class='rest-manner'>
+    <text class='tit'>合作网站账号登录</text>
+  </view>
+
+  <view class='qq-enroll'>
+    <view class='pic'>
+      <image src='../../image/ico-qq2.jpg'></image>
+    </view>
+     
+  </view>
+</view>

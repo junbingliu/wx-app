@@ -1,0 +1,99 @@
+<!--register.wxml-->
+<view class="container">
+   <!-- 内容区域   -->
+   <view class='rowTop'>
+    <view class='intro-cont'>
+      <view class='tit'>
+        <text >新闻中心</text><text class='en'>NEWS</text>
+      </view>
+      <view class='txt-cont'>
+      <view class='news-list'>
+         <view class='time'>
+          <view class='month-day'>2月</view>
+          <view class='month-day'>3日</view>
+          <view class='year'>2015年</view>          
+        </view>
+        <view class='news-cont'>
+          <view class='N-tit'>华润万家正式上线</view>
+          <view class='txt'>由广州信景倾力打造的我省第一家综合型开放性电子商务平台——华润万家正式上线。其目标是成为我省百姓生活由广州信景倾力打造的我省第一家综合型开放性电子商务平台——华润万家正式上线。其目标是成为我省百姓生活</view>
+        </view>
+      </view>
+       <view class='news-list'>
+         <view class='time'>
+          <view class='month-day'>12月</view>
+          <view class='month-day'>2日</view>
+          <view class='year'>2014年</view>          
+        </view>
+        <view class='news-cont'>
+          <view class='N-tit'>武商网正式上线</view>
+          <view class='txt'>由广州信景倾力打造的我省第一家综合型开放性电子商务平台——武商网正式上线。武汉武商量贩连锁有限公司</view>
+        </view>
+      </view>
+       <view class='news-list'>
+         <view class='time'>
+          <view class='month-day'>12月</view>
+          <view class='month-day'>1日</view>
+            <view class='year'>2013年</view>          
+          </view>
+          <view class='news-cont'>
+            <view class='N-tit'>信景公司成为萝岗区、开发区产教联盟</view>
+            <view class='txt'>11月28日，我司代表前往广东岭南职业技术学院科技中心参加由广州开发区管委会、广州市萝岗区人民政府主办</view>
+          </view>
+        </view>
+        <view class='news-list'>
+         <view class='time'>
+          <view class='month-day'>9月</view>
+          <view class='month-day'>30日</view>
+            <view class='year'>2013年</view>          
+          </view>
+          <view class='news-cont'>
+            <view class='N-tit'>喜讯！佰酒汇商城可以在线购券、提酒啦</view>
+            <view class='txt'>佰酒汇是贵州白酒交易所旗下的官方酒类电子商务交易平台，贵州省政府重点支持和扶持企业。佰酒汇通过借助力</view>
+          </view>
+        </view>
+        <view class='news-list'>
+         <view class='time'>
+          <view class='month-day'>9月</view>
+          <view class='month-day'>27日</view>
+            <view class='year'>2013年</view>          
+          </view>
+          <view class='news-cont'>
+            <view class='N-tit'>郑总亲自带队为亚泰e家顺利上线运营</view>
+            <view class='txt'>基于亚泰e家商城得以顺利上线运营，在上线前两周信景技术总监亲自带队到长春亚泰现场与亚泰电商人员一</view>
+          </view>
+        </view>
+        <view class='news-list'>
+         <view class='time'>
+          <view class='month-day'>9月</view>
+          <view class='month-day'>27日</view>
+            <view class='year'>2013年</view>          
+          </view>
+          <view class='news-cont'>
+            <view class='N-tit'>信景应邀参加“黑龙江农垦中小企业年</view>
+            <view class='txt'>信景东北区区域经理赵丹应邀参加“黑龙江农垦中小企业年会”，并在会上就“中国电子商务现状”及“黑龙江农</view>
+          </view>
+        </view>
+
+        <view class='news-list'>
+         
+        
+
+        <navigator url="/pages/news-details/news-details?title=navigate" hover-class="navigator-hover">
+         <view class='time'>
+            <view class='month-day'>7月</view>
+            <view class='month-day'>25日</view>
+            <view class='year'>2013年</view>          
+          </view>
+
+          <view class='news-cont'>
+            <view class='N-tit'>热烈祝贺长春亚泰集团亚泰E家网上线</view>
+            <view class='txt'>过信景开发团队与亚泰电商团队3个月的努力，亚泰E家网正式于上线运营。 亚泰E家网是长春亚泰集团电子</view>
+          </view>
+        </navigator>
+        </view>
+      </view>
+    </view>
+   </view>
+    
+    <!-- end 内容区域   -->
+</view>

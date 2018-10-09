@@ -1,0 +1,121 @@
+<!--home-page.wxml-->
+<view>
+<view class="container">
+
+  <view class="top-nav">
+    <view class='top-bg'>
+      <image src="../../image/top-bg.jpg"></image>
+    </view>
+  </view>
+ 
+</view>
+
+<!-- 轮播图 -->
+<view>
+  <swiper class='banner-pic' indicator-dots="{{indicatorDots}}"
+  autoplay="{{autoplay}}" interval="{{interval}}" duration="{{duration}}">
+  <block wx:for="{{imgUrls}}" wx:key="slide">
+    <swiper-item>
+      <image src="{{item}}" class="slide-image"/>
+    </swiper-item>
+  </block>
+</swiper>
+</view>
+<!--end 轮播图 -->
+
+<view class='home-abstract'>
+    <view class='abstract'>
+      <navigator url="/pages/About/About" hover-class="navigator-hover">
+        <view class='pic'>
+          <image src='../../image/ico-abstract1.jpg'></image>
+        </view>
+        <text class='txt'>公司简介</text> 
+      </navigator>
+    </view>
+
+    <view class='abstract'>
+       <navigator url="/pages/news/news" hover-class="navigator-hover">
+       <view class='pic'>
+       <image src='../../image/ico-abstract2.jpg'></image>
+      </view>
+       <text class='txt'>新闻中心</text> 
+      </navigator>
+    </view>
+
+     <view class='abstract'>
+     <navigator url="/pages/honor/honor" hover-class="navigator-hover">
+       <view class='pic'>
+       <image src='../../image/ico-abstract3.jpg'></image>
+      
+      </view>
+       <text class='txt'>公司荣耀</text> 
+      </navigator>
+      
+    </view>
+
+     <view class='abstract'>
+        <navigator url="/pages/develop/develop" hover-class="navigator-hover">
+        <view class='pic'>
+       <image src='../../image/ico-abstract4.jpg'></image>
+      
+      </view>
+       <text class='txt'>发展历程</text>  
+      </navigator>
+     
+    </view>
+
+
+    <view class='abstract'>
+      <navigator url="/pages/project/project" hover-class="navigator-hover">
+        <view class='pic'>
+          <image src='../../image/ico-abstract5.jpg'></image>
+        </view>
+        <text class='txt'>项目合作</text>
+      </navigator>
+    </view>
+    
+
+     <view class='abstract'>
+     <navigator url="/pages/contact-us/contact-us" hover-class="navigator-hover">
+         <view class='pic'>
+       <image src='../../image/ico-abstract6.jpg'></image>
+      
+      </view>
+       <text class='txt'>联系我们</text> 
+      </navigator>
+     
+    </view>
+</view>
+
+<view class='home-dynamic'>
+  <view class='dynamic-list'>
+    <view class='pic'><image src='../../image/270x203.jpg'></image></view>
+    <view class='text'>
+      <text class='tit'>立即开店 <text class='English'> Now shop</text></text>
+      <text class='txt'>大、小型商铺，大型运营平台都有最佳解决方案；立即在手机，微信平台和电脑上销售你的产品和服务</text>  
+      <view class='dynamic-ico'><image src='../../image/ico-play.png'></image></view>
+    </view>
+  </view>
+  <view class='dynamic-list'>
+    <view class='pic'><image src='../../image/270x203-2.jpg'></image></view>
+    <view class='text'>
+      <text class='tit'>产品动态 <text class='English'> Product News</text></text>
+      <text class='txt'>定制开发独立部署，产品级项目组为你策划，执行，把握好每个细节</text>  
+      <view class='dynamic-ico'><image src='../../image/ico-play.png'></image></view>
+    </view>
+  </view>
+  
+  
+  
+    <view class='dynamic-list'>
+    <view class='pic'><image src='../../image/270x203-3.jpg'></image></view>
+    <view class='text'>
+      <text class='tit'>最新案例 <text class='English'> Success Case</text></text>
+      <text class='txt'>15年沉淀、各种行业、各大企业使用过信景提供的优质产品及专业服务          </text>  
+      <view class='dynamic-ico'><image src='../../image/ico-play.png'></image></view>
+    </view>
+  </view> 
+  
+</view>
+</view>
+ 

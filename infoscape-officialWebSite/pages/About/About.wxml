@@ -1,0 +1,45 @@
+<!--register.wxml-->
+<view class="container">
+  <!-- <view class='newHead'>
+    <view class='w-nav'>
+      <view class='w-nav-back'>
+        <view class='icon-back'>
+          <image src='../../image/return-ico.png'></image>
+        </view>
+        
+      </view>
+      <view class='w-nav-title'>
+          公司简介
+      </view>
+      <view class='w-nav-r'>
+        <view class='ico-navigate'></view>
+      </view>
+    </view>
+  </view> -->
+
+   <!-- 内容区域   -->
+   <view class='rowTop'>
+    <view class='intro-cont'>
+      <view class='tit'>
+        <text >信景技术简介</text><text class='en'>about us</text>
+      </view>
+      <view class='txt-cont'>
+        <view class='tab'>
+          广州市信景技术有限公司成立于1999年9月，是一家专门从事INTERNET电子商务应用开发的高科技软件公司，在数据安全，网络安全，组网，站点建设，电子商务应用开发、大型信息管理系统的系统分析与设计方面具有丰富的实践经验。特别是在电子商务领域具有丰富的大型网上商城系统开发与实施经验。公司致力于做“中国最好的电子商务策划商及实施商”，为企业提供专业的一体化电子商务解决方案。
+        </view>
+         <view class='tab'>
+          信景技术经过10多年的技术沉淀和积累，打造的“信使网客通电子商城软件”系统，可支持单个或多个商家同时开设虚拟网店在线经营，并提供商家经营所需的各种功能支持。系统采用信景技术享有专利的云计算平台作为支撑。可支持海量的交易数据、用户数据、用户行为数据的存储，并且可以实现极高的稳定性并可支持无限扩展的吞吐量和极高的并发，满足商家在做促销活动瞬间高并发量的访问。
+        </view>
+         <view class='tab'>
+          经过多年在电子商务领域的经营，“信使网客通电子商城软件”系统已经为国内多个行业多个知名企业所采用，并取得一致好评。服务的客户有华润万家、武商网、佰酒汇、泰富、国美电器、中粮集团、大商集团、海尔集团、海信集团、益海嘉里、合肥百大、天虹百货、宏图三胞、中国电信等。
+        </view>
+         <view class='tab'>
+          信景人以精益求精的精神，为全面协助客户提升竞争力而不断努力。 
+        </view>
+        <view class='baner'><image src='../../image/551x541.jpg'></image> </view>
+      </view>
+    </view>
+   </view>
+    
+    <!-- end 内容区域   -->
+</view>

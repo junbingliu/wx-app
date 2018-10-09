@@ -1,0 +1,4 @@
+<!--register.wxml-->
+<view class="container">
+  <image class='load' src='../../image/load.jpg' mode='widthFix'></image>
+</view>

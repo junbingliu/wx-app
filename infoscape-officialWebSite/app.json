@@ -1,0 +1,46 @@
+{
+  "pages": [
+    "pages/home-page/home-page",
+    "pages/case/case",
+    "pages/About/About",
+    "pages/contact-us/contact-us",
+    "pages/project/project",
+    "pages/news/news",
+    "pages/news-details/news-details",
+    "pages/develop/develop",
+    "pages/honor/honor",
+    "pages/register/register",
+    "pages/logs/logs"
+  ],
+  "tabBar": {
+    "color": "#54a0f6",
+    "selectedColor": "#fff",
+    "borderStyle": "#54a0f6",
+    "backgroundColor": "#297bd8",
+    "list": [
+      {
+        "pagePath": "pages/home-page/home-page",
+        "iconPath": "image/footer_ico-1-2.png",
+        "selectedIconPath": "image/footer_ico-1.png",
+        "text": "首页"
+      },
+      {
+        "pagePath": "pages/case/case",
+        "iconPath": "image/footer_ico-2.png",
+        "selectedIconPath": "image/footer_ico-2-2.png",
+        "text": "案例"
+      }
+    ]
+  },
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "信景技术",
+    "navigationBarTextStyle": "black"
+  },
+  "networkTimeout": {
+    "request": 120000,
+    "downloadFile": 120000
+  },
+  "debug": true
+}

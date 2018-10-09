@@ -1,0 +1,65 @@
+<!--register.wxml-->
+<view class="container">
+  <!-- <view class='newHead'>
+    <view class='w-nav'>
+      <view class='w-nav-back'>
+        <view class='icon-back'>
+          <image src='../../image/return-ico.png'></image>
+        </view>
+        
+      </view>
+      <view class='w-nav-title'>
+          项目合作
+      </view>
+      <view class='w-nav-r'>
+        <view class='ico-navigate'></view>
+      </view>
+    </view>
+  </view> -->
+
+   <!-- 内容区域   -->
+   <view class='rowTop'>
+    <view class='intro-cont project'>
+      <view class='tit'>
+        <text >项目合作</text><text class='en'>COOPERATION</text>
+      </view>
+      <view class='project-tit'>
+          <view class='title'>
+            <text>我们希望能与更多的优秀企业携手合作</text>
+          </view>
+          <view class='tab'><text>在这里您能拥有强大的技术力量，能更好实现企业的价值</text></view>
+        </view>
+      <view class='txt-cont'>
+        <view class='subhead'>
+          <view class='line'></view>
+          <text>信景技术</text>
+        </view>
+        <view class='tab'>
+          我们拥有强大技术力量与多年的行业经验。我们的产品包括了云计算平台、信使网客通、信使繁简通、信使网络通、在线客服系统、游戏对战平台等，得到用户认可与广泛好评。信使繁简通在国内外同类产品中独树一帜，是网站简繁转换第一品牌，为中央权威网站采用，中文网站繁简互换之首选产品。信使网客通是自已独立开发的拥有自主知识产权的一套电子商务系统，是我们在电子商务领域多年的经营理念与技术积累的沉淀，公司当前的主打产品。
+        </view>
+         <view class='tab'>
+          我们专注于电子商务与网络应用领域，拥有中国顶尖企业电子商务项目的策划和实施经验，我们的客户包括了国内知名企业如：华润万家、国美电器、大商集团、广物汽贸、扬帆集团、海龙集团等等。
+        </view>
+         <view class='tab'>
+          我们希望能与更多的优秀企业携手合作，为更好地服务客户，实现企业的价值而努力。
+        </view>
+         
+        
+      </view>
+      <view class='txt-cont'>
+        <view class='subhead'>
+          <view class='line'></view>
+          <text>合作意向</text>
+        </view>
+        <view class='tab'>
+          如果您认可我们的产品和经验，希望能够与信景建立长期稳定的合作关系，请立即致电与我们联系。
+        </view>
+         <view class='tab'>
+          电话：400-777-1357
+        </view>
+      </view>
+    </view>
+   </view>
+    
+    <!-- end 内容区域   -->
+</view>

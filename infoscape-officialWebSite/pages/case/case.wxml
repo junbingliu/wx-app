@@ -1,0 +1,125 @@
+<!--register.wxml-->
+<view class="container">
+  <!-- <view class='newHead'>
+    <view class='w-nav'>
+     
+      <view class='w-nav-back'>
+        <view class='icon-back'>
+          <image src='../../image/return-ico.png'></image>
+        </view>
+      </view>
+
+      <view class='w-nav-title'>
+          成功案例
+      </view>
+      <view class='w-nav-r'>
+        <view class='ico-navigate'></view>
+      </view>
+    </view>
+  </view> -->
+
+   <!-- 内容区域   -->
+   <view class='rowTop'>
+    <view class='case-banner'>
+      <image src='../../image/640x250.jpg'></image>
+    </view>
+    <view class='intro-cont project'>
+      <view class='tit'>
+        <text >客户成功案例</text><text class='en'>SUCCESS CASE</text>
+      </view>
+      <view class='success-case'>
+        <view class='logo' style='width:386rpx;'><image src='../../image/logo-1.jpg'></image></view>
+        <view class='case-img'>
+          <image src='../../image/560x410-1.jpg'></image>
+        </view>
+        <view class='txt'>
+          <text class='name'>华润万家：</text><text>是一家全国范围发展的大型零售连锁企业，是香港规模最大、实 ——华润（集团）有限公司旗下一级利润中心。近20年的发展历程，使华润万家发展成为中国零售业的知名企业。2002年8月1日，华润万家正式注入华润集团的上市旗舰公司——华润创业有限公司，拥有了国际资本市场的发展空间与机制平台。 </text>
+        </view>
+      </view>
+      <view class='success-case'>
+        <view class='logo' style='width:203rpx;'><image src='../../image/logo-2.jpg'></image></view>
+        <view class='case-img'>
+          <image src='../../image/560x410-2.jpg'></image>
+        </view>
+        <view class='txt'>
+          <text class='name'>武商网：</text><text>武商网是一个致力于满足网购达人一站式需求的大型B2C网购平台。由中国连锁零售百强企业、湖北省最大的综合性商业零售企业集团——武商集团投资建设。是湖北省最大的商业零售企业——武商集团旗下的大型超市连锁公司。 武商量贩按照直营连锁模式，坚持规模经营、规范管理、大卖场发展的思路，企业规模与经营业绩保持着年递增30%以上的发展速度。 </text>
+        </view>
+      </view>
+       <view class='success-case'>
+        <view class='logo' style='width:223rpx;'><image src='../../image/logo-3.jpg'></image></view>
+        <view class='case-img'>
+          <image src='../../image/560x410-3.jpg'></image>
+        </view>
+        <view class='txt'>
+          <text class='name'>亚泰E家：</text><text>亚泰集团是一家成长中的综合类绩优上市公司，以地产、水泥、证券为主业，医药、商贸为辅业。公司始创于1986年，正式组建于1993年，1995年在上海证券交易所挂牌上市。公司历经二十多年的持续发展，现已成为在东北地区同行业居于领先地位，资产、收入双双过百亿，主业突出、紧密管理的大型企业集团。公司先后跻身“国家最大企业500强”、“国家首批循环经济试点单位”和“国家重点支持的十二家大型水泥企业集团”之列。  </text>
+        </view>
+      </view>
+      <view class='success-case'>
+        <view class='logo' style='width:277rpx;'><image src='../../image/logo-4.jpg'></image></view>
+        <view class='case-img'>
+          <image src='../../image/560x410-4.jpg'></image>
+        </view>
+        <view class='txt'>
+          <text class='name'>百大易商城：</text><text>百大易商城是合肥百大集团旗下从事电子商务运营的公司，作为百大集团零售转型“第四大业态”于2011年11月24日正式上线。2013年11月28日，百大易商城转型升级，定位“同城网上超市”，以发展超市O2O为起点，打造百大集团整个线上线下的O2O平台。 </text>
+        </view>
+      </view>
+       <view class='success-case'>
+        <view class='logo' style='width:184rpx;'><image src='../../image/logo-5.jpg'></image></view>
+        <view class='case-img'>
+          <image src='../../image/560x410-5.jpg'></image>
+        </view>
+        <view class='txt'>
+          <text class='name'>网上泰富：</text><text>是泰富集团唯一网购平台,汇集常州精品网购,团购,限时抢购,网购,本地优惠,网上商城,各类世界名牌优惠折扣,是常州本地网购的领导品牌,网购首选平台。 </text>
+        </view>
+      </view>
+      <view class='success-case'>
+        <view class='logo' style='width:447rpx;'><image src='../../image/logo-6.jpg'></image></view>
+        <view class='case-img'>
+          <image src='../../image/560x410-6.jpg'></image>
+        </view>
+        <view class='txt'>
+          <text class='name'>佰酒汇：</text><text>佰酒汇是贵州白酒交易所旗下的官方酒类电子商务交易平台。网站成立于2012年8月，是贵州省政府重点支持和扶持企业。佰酒汇通过借助于现代电子商务平台，主力从事高档酒类消费的销售服务，主营国内高档白酒、进口葡萄酒、进口酒具等。 </text>
+        </view>
+      </view>
+       <view class='success-case'>
+        <view class='logo' style='width:210rpx;'><image src='../../image/logo-7.jpg'></image></view>
+        <view class='case-img'>
+          <image src='../../image/560x410-7.jpg'></image>
+        </view>
+        <view class='txt'>
+          <text class='name'>摩登网：</text><text>广州名品折扣网站-摩登网,以时尚、价优对全球各大名品进行限时限量特卖、抢购、团购,商品囊括男装、女装、皮具鞋、化妆品、儿童家具、运动休闲、钟表配饰等近千个时尚知名品牌,100%正品,低价,货到付款7天无条件退货! </text>
+        </view>
+      </view>
+      <view class='success-case'>
+        <view class='logo' style='width:340rpx;'><image src='../../image/logo-8.jpg'></image></view>
+        <view class='case-img'>
+          <image src='../../image/560x410-8.jpg'></image>
+        </view>
+        <view class='txt'>
+          <text class='name'>上元堂网上药店：</text><text>网上买药网上购药首选的网上药店,产品包括中西药品,成人用品,药膳养生,美容护肤,医疗保健器械,减肥产品,母婴用品,沉香用品等上万种商品直销。 </text>
+        </view>
+      </view>
+       <view class='success-case'>
+        <view class='logo' style='width:377rpx;'><image src='../../image/logo-9.jpg'></image></view>
+        <view class='case-img'>
+          <image src='../../image/560x410-9.jpg'></image>
+        </view>
+        <view class='txt'>
+          <text class='name'>良品铺子：</text><text>良品铺子是一家集休闲食品研发、加工分装、零售服务的专业品牌连锁运营公司。秉承着品质·快乐·家的企业核心价值观,坚持研发高品质产品,不断引进先进的经营管理思想。 </text>
+        </view>
+      </view>
+      <view class='success-case'>
+        <view class='logo' style='width:184rpx;'><image src='../../image/logo-10.jpg'></image></view>
+        <view class='case-img'>
+          <image src='../../image/560x410-10.jpg'></image>
+        </view>
+        <view class='txt'>
+          <text class='name'>健康家族商城：</text><text>飞来爱致力于创建政商定制化健康托管专家，为中国政商家族健康服务的高端平台。统合了中医、西医、自然医学、营养学、健康管理学、灵性学六大学术精髓，为政商家族定制有结果的健康方案——“健康系统工程”。 </text>
+        </view>
+      </view>
+
+    </view>
+   </view>
+    
+    <!-- end 内容区域   -->
+</view>

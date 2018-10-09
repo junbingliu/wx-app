@@ -1,0 +1,14 @@
+<!--register.wxml-->
+<view class="container">
+   <!-- 内容区域   -->
+   <view class='rowTop'>
+    <view class='intro-cont'>
+      <view class='tit'>
+        <text >发展历程</text><text class='en'>HISTORY</text>
+      </view>
+     <image class='history' src='../../image/600x1255.jpg' mode='widthFix'></image>
+    </view>
+   </view>
+    
+    <!-- end 内容区域   -->
+</view>

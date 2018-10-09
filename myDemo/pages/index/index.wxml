@@ -1,0 +1,43 @@
+<!--index.wxml-->
+<view class="container">
+  
+  <image class='banner-pic' src='../../image/lake.jpg'></image>
+  
+  <view class='title'>
+    <view class='row1'>
+      <view class='tix'><text>Oeschinen Lake Campground</text></view>
+      <text class='tex'>Kandersteg, Switzerland</text>
+    </view>
+    <view class='star'>
+      <icon class="iconfont icon-sousuo"></icon>
+    </view>
+    <view class='num'><text>12</text></view>
+  </view>
+  <view class='button'>
+    <view class='call'> 
+      <icon class="iconfont icon-dianhua"></icon>
+      <view><text>CALL</text></view>
+    </view>
+    <view class='route'> 
+      <icon class="iconfont icon-dibiao"></icon>
+      <view><text>ROUTE</text></view>
+    </view>
+    <view class='share'> 
+      <icon class="iconfont icon-shezhi"></icon>
+      <view><text>SHARE</text></view>
+    </view>
+  </view>
+  <view class='text'>
+    <textarea>Lake Oeschinen lies at the foot of the Blüemlisalp in the Bernese Alps. Situated 1,578 meters above sea level, it is one of the larger Alpine Lakes. A gondola ride from Kandersteg, followed by a half-hour walk through pastures and pine forest, leads you to the lake, which warms to 20 degrees Celsius in the summer. Activities enjoyed here include rowing, and riding the summer toboggan run.
+    </textarea>
+  </view>
+
+
+
+ 
+ 
+  
+  
+ 
+  
+</view>
